@@ -28,6 +28,6 @@ var i = num
   do {
 howMuch.push('I Love The Beatles!');
 i++;
-  } while (num < 15);
-
+  } while (i < 15);
+return (howMuch)
 }
