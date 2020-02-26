@@ -21,10 +21,10 @@ var i = 0
   }
   return (facts)
 }
-var howMuch=[]
+
 function iLoveTheBeatles(num){
 var i = num
-
+var howMuch=[]
   do {
 howMuch.push('I love the Beatles!');
 i++;
